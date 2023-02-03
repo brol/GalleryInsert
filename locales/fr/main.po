@@ -1,16 +1,16 @@
 # Language: Français
-# Module: GalleryInsert - 0.5.1-dev
-# Date: 2023-01-24 03:05:34
+# Module: GalleryInsert - 0.5.2-dev
+# Date: 2023-02-03 10:20:13
 # Author: Pierre Van Glabeke
 # Translated with translater 2022.12.26
 
 msgid ""
 msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
-"Project-Id-Version: GalleryInsert 0.5.1-dev\n"
+"Project-Id-Version: GalleryInsert 0.5.2-dev\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2023-01-24T03:05:34+00:00\n"
-"Last-Translator: Pierre Van Glabeke\n"
+"PO-Revision-Date: 2023-02-03T10:20:13+00:00\n"
+"Last-Translator: brol\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -124,7 +124,7 @@ msgstr "Mise à jour des galeries dans les billets"
 
 #: admin.php:226
 msgid "Update of posts can be useful after a plugin upgrade, it will regenerate the gallery in all posts.<br />It is recommended to make a backup of your database before... Just in case !"
-msgstr "La mise à jour des billets avec galerie peut-être nécessaire après une mise à jour du plugin.<br />Il est très recommandé de faire une sauvegarde de votre base de données avant cela... Juste au cas où !"
+msgstr "La mise à jour des billets avec galerie peut être nécessaire après une mise à jour du plugin.<br />Il est très recommandé de faire une sauvegarde de votre base de données avant cela... Juste au cas où !"
 
 #: popup.php:143
 msgid "Select at least one picture"

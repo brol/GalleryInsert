@@ -1,7 +1,7 @@
 <?php
 // Language: Français
 // Module: GalleryInsert - 
-// Date: 2023-01-24 03:05:34
+// Date: 2023-02-03 10:20:13
 // Author: Pierre Van Glabeke
 // Translated with dcTranslater - 2022.12.26
 
@@ -36,7 +36,7 @@ l10n::$locales['Password for private pictures'] = 'Mot de passe pour l\'affichag
 l10n::$locales['List of posts with gallery'] = 'Liste des billets avec galerie';
 l10n::$locales['No post with gallery found'] = 'Aucun billet avec galerie n\'a été trouvé';
 l10n::$locales['Update gallery in posts'] = 'Mise à jour des galeries dans les billets';
-l10n::$locales['Update of posts can be useful after a plugin upgrade, it will regenerate the gallery in all posts.<br />It is recommended to make a backup of your database before... Just in case !'] = 'La mise à jour des billets avec galerie peut-être nécessaire après une mise à jour du plugin.<br />Il est très recommandé de faire une sauvegarde de votre base de données avant cela... Juste au cas où !';
+l10n::$locales['Update of posts can be useful after a plugin upgrade, it will regenerate the gallery in all posts.<br />It is recommended to make a backup of your database before... Just in case !'] = 'La mise à jour des billets avec galerie peut être nécessaire après une mise à jour du plugin.<br />Il est très recommandé de faire une sauvegarde de votre base de données avant cela... Juste au cas où !';
 l10n::$locales['Select at least one picture'] = 'Sélectionnez au moins une image';
 l10n::$locales['Default options saved.'] = 'Paramètres sauvegardés.';
 l10n::$locales['Default options restored.'] = 'Paramètres restaurés.';
